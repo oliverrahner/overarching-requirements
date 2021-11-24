@@ -1,1 +1,1 @@
-This is a text </x>.
+This is a test [/x](/x).
